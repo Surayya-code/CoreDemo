@@ -3,8 +3,9 @@
     "",
     "\\CoreDemo",
     "\\CoreDemo\\CoreDemo",
-    "\\CoreDemo\\CoreDemo\\Controllers"
+    "\\CoreDemo\\CoreDemo\\Views",
+    "\\CoreDemo\\CoreDemo\\Views\\Blog"
   ],
-  "SelectedNode": "\\CoreDemo\\CoreDemo\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\CoreDemo\\CoreDemo\\Views\\Blog\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

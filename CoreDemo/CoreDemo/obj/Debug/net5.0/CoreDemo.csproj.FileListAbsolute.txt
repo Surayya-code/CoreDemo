@@ -234,3 +234,6 @@ C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\bin\Debug\net5.0\Entit
 C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.Views.pdb
 C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.CopyComplete
 C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
+C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
+C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Comment\PartialAddComment.cshtml.g.cs
+C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs
