@@ -239,3 +239,4 @@ C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor
 C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Comment\CommentListByBlog.cshtml.g.cs
 C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
 C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
+C:\Users\ACER\source\repos\CoreDemoRepo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
