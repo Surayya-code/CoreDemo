@@ -3,9 +3,11 @@
     "",
     "\\CoreDemo",
     "\\CoreDemo\\CoreDemo",
+    "\\CoreDemo\\CoreDemo\\Controllers",
     "\\CoreDemo\\CoreDemo\\Views",
-    "\\CoreDemo\\CoreDemo\\Views\\Blog"
+    "\\CoreDemo\\CoreDemo\\Views\\Blog",
+    "\\CoreDemo\\CoreDemo\\Views\\Register"
   ],
-  "SelectedNode": "\\CoreDemo\\CoreDemo\\Views\\Blog\\Index.cshtml",
+  "SelectedNode": "\\CoreDemo\\CoreDemo\\Controllers\\RegisterController.cs",
   "PreviewInSolutionExplorer": false
 }

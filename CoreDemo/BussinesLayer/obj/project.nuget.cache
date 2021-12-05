@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/Brv54PY/xjMFv+WGlLl+AncT0FL/12o3qSXJa0gvwcBVaZLv8J6mGqchGaMF+Y4Hq1wbyHaNzxD+pSNcpOa6w==",
+  "dgSpecHash": "ow6cwQwR8riLak/I974+MdZy/P7aQjrS4tMxPaDmg4PJGPvIf5Yo+yMA7xSwNEQs9VkChKrFw3POA/DrNPh+3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ACER\\source\\repos\\CoreDemoRepo\\CoreDemo\\BussinesLayer\\BussinesLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.5\\fluentvalidation.aspnetcore.10.3.5.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.5\\fluentvalidation.dependencyinjectionextensions.10.3.5.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
