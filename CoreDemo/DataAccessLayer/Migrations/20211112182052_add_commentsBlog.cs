@@ -10,7 +10,7 @@ namespace DataAccessLayer.Migrations
                 name: "BlogID",
                 table: "Comments",
                 type: "int",
-                nullable: false,
+                nullable: true,
                 defaultValue: 0);
 
             migrationBuilder.CreateIndex(

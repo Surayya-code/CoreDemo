@@ -10,7 +10,7 @@ namespace DataAccessLayer.Migrations
                 name: "CategoryID",
                 table: "Blogs",
                 type: "int",
-                nullable: false,
+                nullable: true,
                 defaultValue: 0);
 
             migrationBuilder.CreateIndex(
