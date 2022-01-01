@@ -4,8 +4,9 @@
     "\\CoreDemo",
     "\\CoreDemo\\CoreDemo",
     "\\CoreDemo\\CoreDemo\\Views",
+    "\\CoreDemo\\CoreDemo\\Views\\About",
     "\\CoreDemo\\CoreDemo\\Views\\Blog"
   ],
-  "SelectedNode": "\\CoreDemo\\CoreDemo\\Startup.cs",
+  "SelectedNode": "\\CoreDemo\\CoreDemo.sln",
   "PreviewInSolutionExplorer": false
 }
